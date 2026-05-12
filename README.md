@@ -38,7 +38,7 @@ Settings → Video → Load Custom Textures
 Settings → Video → Preload Custom Textures
 ```
 
-Restart the game after changing the settings.
+Restart Flycast after changing the settings.
 
 ## Recommended
 
