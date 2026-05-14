@@ -1,4 +1,7 @@
-![Logo](images/preview1.jpg)
+<p align="center">
+  <img src="images/preview1.jpg" width="45%">
+  <img src="images/preview2.jpg" width="45%">
+</p>
 
 ## About
 
