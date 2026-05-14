@@ -8,6 +8,10 @@ A large amount of real-world reference material was used during development, inc
 
 The goal of this pack is simple: preserve the feeling of the original arcade experience while making it sharper, cleaner, and more immersive on modern hardware.
 
+# Download
+
+[Download Initial D Arcade Stage Ver. 3 Texture pack](https://drive.google.com/open?id=14cvkEUqx2s2lS9q7f7x9pEUlADxJywWX&usp=drive_fs)
+
 # How to Use Texture Packs in Flycast
 
 1. Open your Flycast folder and go to the `Data` folder.
