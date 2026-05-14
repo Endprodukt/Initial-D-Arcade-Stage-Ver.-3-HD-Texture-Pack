@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="images/Flycast-2026-05-14 22-57-29.png" width="45%">
-  <img src="images/Flycast-2026-05-14 22-56-57.png" width="45%">
+  <img src="images/Flycast-2026-05-14 22-58-30.png" width="45%">
 </p>
 
 ## About
