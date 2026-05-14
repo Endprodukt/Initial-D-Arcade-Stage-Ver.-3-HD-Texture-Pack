@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="images/Flycast-2026-05-14 22-56-35.png" width="45%">
-  <img src="Flycast-2026-05-14 22-57-10.png" width="45%">
+  <img src="images/Flycast-2026-05-14 22-57-10.png" width="45%">
 </p>
 
 ## About
