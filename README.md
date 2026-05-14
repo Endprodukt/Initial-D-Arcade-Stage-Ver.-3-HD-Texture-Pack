@@ -3,6 +3,11 @@
   <img src="images/preview2.jpg" width="45%">
 </p>
 
+<p align="center">
+  <img src="images/Flycast-2026-05-14 22-56-35.png" width="45%">
+  <img src="Flycast-2026-05-14 22-57-10.png" width="45%">
+</p>
+
 ## About
 
 A high-resolution texture pack for Initial D Arcade Stage Ver. 3 using Flycast emulator, focused on preserving the original arcade atmosphere while enhancing visual quality for modern displays. Export and Japanese Version are both supported.
@@ -52,3 +57,4 @@ Restart Flycast after changing the settings.
 ## Recommended
 
 For even better visual quality, increase the **Internal Resolution** in Flycast’s video settings.
+
