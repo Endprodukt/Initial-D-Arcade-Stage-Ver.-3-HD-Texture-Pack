@@ -1,6 +1,6 @@
 ## About
 
-A high-resolution texture pack for Initial D Arcade Stage Ver. 3 focused on preserving the original arcade atmosphere while enhancing visual quality for modern displays.
+A high-resolution texture pack for Initial D Arcade Stage Ver. 3 using Flycast emulator, focused on preserving the original arcade atmosphere while enhancing visual quality for modern displays. Export and Japanese Version are both supported.
 
 This project is not just an AI upscale. Many textures were manually rebuilt, repainted, cleaned, color-corrected, and blended by hand to stay faithful to the original look of the game. The pack also incorporates recreated and adapted assets inspired by newer Initial D arcade titles while maintaining the visual identity of Ver. 3.
 
