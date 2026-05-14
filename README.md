@@ -40,10 +40,6 @@ The goal of this pack is simple: preserve the feeling of the original arcade exp
 Flycast\data\textures\INITIAL_D_Ver.3
 ```
 
-<p align="center">
-  <img src="images/settings.jpg" width="45%">
-</p>
-
 ## Alternative Folder Location
 
 You can also set your own texture pack folder in Flycast under:
@@ -62,6 +58,10 @@ Settings → Video → Preload Custom Textures
 ```
 
 Restart Flycast after changing the settings.
+
+<p align="center">
+  <img src="images/settings.jpg" width="45%">
+</p>
 
 ## Recommended
 
