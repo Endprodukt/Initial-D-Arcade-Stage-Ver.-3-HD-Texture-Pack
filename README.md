@@ -1,4 +1,4 @@
-![Logo](images/preview1.png)
+![Logo](images/preview1.jpg)
 
 ## About
 
