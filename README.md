@@ -1,3 +1,5 @@
+![Logo](images/preview1.png)
+
 ## About
 
 A high-resolution texture pack for Initial D Arcade Stage Ver. 3 using Flycast emulator, focused on preserving the original arcade atmosphere while enhancing visual quality for modern displays. Export and Japanese Version are both supported.
